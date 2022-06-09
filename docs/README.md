@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/photo.png
 heroText: 小雨雨的前端记录
-tagline: 一点一滴都是进步
+tagline: 知识来源于生活的积累
 actions:
     - text: 学习 →
       link: /blog/study

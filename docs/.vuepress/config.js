@@ -16,11 +16,11 @@ module.exports = {
         navbar, //导航栏配置
         sidebar,
         logo: "/images/logo.png", //导航栏左侧logo
-        repo: "https://github.com/JHL1127skr", //导航栏右侧GitHub链接
+        repo: "https://github.com/zyqlovekl", //导航栏右侧GitHub链接
         editLink: false,
-        lastUpdated:true,
-        contributorsText:'创建者',
-        lastUpdatedText:'最后一次更新时间'
+        lastUpdated: true,
+        contributorsText: '创建者',
+        lastUpdatedText: '最后一次更新时间'
     }),
     plugins: [
         searchPlugin({
